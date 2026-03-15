@@ -1,10 +1,12 @@
 # RedBlurer
 
-Blurs images, videos, and inline backgrounds across the web so you can scroll safely in public. Reveal content on hover (or keep it hidden) while videos stay paused until you decide otherwise.
+A program I use, as a BYOD student in school, to blur stuff when browsing social media in case anything that could raise the admins' eyebrows would show up on my feed, despite my 10+ hours of doomscrollong did not show any signs of this happening, but better safe than sorry. It is a Chrome extension that automatically blurs images and videos on specified websites, with options to reveal them on hover or keep them blurred for privacy.
+
+You would enjoy tweaking it. Built by students, for students. 
 
 > **Heads-up**
 >
-> This project is heavily vobe-coded (LLM-assisted). It may contain bugs, edge cases, and unpolished code paths. I would really appreciate community fixes, reviews, and refactors.
+> This project is heavily vibe-coded (LLM-assisted). It may contain bugs, edge cases, and unpolished code paths. I would really appreciate community fixes, reviews, and refactors.
 
 ## Features
 
