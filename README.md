@@ -7,6 +7,12 @@ You would enjoy tweaking it. Built by students, for students.
 > **Heads-up**
 >
 > This project is heavily vibe-coded (LLM-assisted). It may contain bugs, edge cases, and unpolished code paths. I would really appreciate community fixes, reviews, and refactors.
+> 
+> Due to academics, I haven't coded for a while and kinda forgot everything. After changing my mindset of not grinding that much, I decided to pick up coding again, which is something I always wanted to do. 
+
+## Roadmap so far
+- [ ] fix bug where it is not working with certain websites
+- [ ] brainstorm what can I do next
 
 ## Features
 
@@ -43,7 +49,7 @@ You would enjoy tweaking it. Built by students, for students.
 
 ## Contributing
 
-LLM-generated code benefits from human review—please file issues, suggest improvements, or open pull requests. Tests, refactors, accessibility tweaks, and performance improvements are all welcome.
+Sorry if the code is not perfect due to it being mostly vibe coded, but I would really appreciate any contributions, whether it's fixing bugs, improving code quality, or adding new features. Feel free to open issues or submit pull requests.
 
 ## License
 
